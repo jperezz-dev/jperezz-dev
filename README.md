@@ -2,9 +2,9 @@
 
 <h3 align="left">
   I'm a <b>Junior Developer</b> from <b>Vigo, Spain</b>[cite: 4, 6].<br>
-  Current 2nd-year <b>Multiplatform Application Development (DAM)</b> student at Aula Estudio[cite: 8, 12].<br>
-  I'm passionate about building well-structured solutions, especially within <b>Java</b> and <b>JavaScript</b> ecosystems[cite: 9].<br>
-  I enjoy working across the full stack using <b>React Native</b>, <b>Electron</b>, and <b>SQL</b> databases[cite: 10, 41, 46].
+  Current 2nd-year <b>Multiplatform Application Development (DAM)</b> student at Aula Estudio.<br>
+  I'm passionate about building well-structured solutions, especially within <b>Java</b> and <b>JavaScript</b> ecosystems.<br>
+  I enjoy working across the full stack using <b>React Native</b>, <b>Electron</b>, and <b>SQL</b> databases.
 </h3>
 
 <h3 align="left">
@@ -13,7 +13,7 @@
 
 ---
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
@@ -43,7 +43,7 @@
 
 <br />
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/jacobo-pérez-de-torres" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
