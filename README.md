@@ -8,7 +8,7 @@
 </h3>
 
 <h3 align="left">
-  Beyond coding, I have a solid background in <b>Linux and Windows</b> systems administration and hardware maintenance[cite: 28, 44].
+  Beyond coding, I have a solid background in <b>Linux and Windows</b> systems administration and hardware maintenance.
 </h3>
 
 ---
