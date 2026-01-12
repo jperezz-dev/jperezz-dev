@@ -56,6 +56,4 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/jperezz-dev/jperezz-dev/output/snake.svg" alt="Snake animation" />
-  <br />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jperezz-dev.jperezz-dev&" />
 </div>
