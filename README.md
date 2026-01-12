@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Jacobo</h2>
 
 <h3 align="left">
-  I'm a <b>Junior Developer</b> from <b>Vigo, Spain</b>[cite: 4, 6].<br>
+  I'm a <b>Junior Developer</b> from <b>Vigo, Spain</b>.<br>
   Current 2nd-year <b>Multiplatform Application Development (DAM)</b> student at Aula Estudio.<br>
   I'm passionate about building well-structured solutions, especially within <b>Java</b> and <b>JavaScript</b> ecosystems.<br>
   I enjoy working across the full stack using <b>React Native</b>, <b>Electron</b>, and <b>SQL</b> databases.
