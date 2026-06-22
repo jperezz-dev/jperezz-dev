@@ -2,7 +2,7 @@
 
 <h3 align="left">
   I'm a <b>Junior Developer</b> from <b>Vigo, Spain</b>.<br>
-  Passionate about Multiplatform Development and current 2nd-year <b>Multiplatform Application Development (DAM)</b> student at Aula Estudio.<br>
+  Passionate about Multiplatform Development, holding a degree in <b>Multiplatform Application Development (DAM)</b>.<br>
   My main focus is building cross-platform experiences using <b>React Native</b> for mobile and <b>Electron + Angular/Vue</b> for desktop, powered by <b>Node.js</b> and robust database systems such as MySQL, MongoDB or PostgreSQL.
 </h3>
 
